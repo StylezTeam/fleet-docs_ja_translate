@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import re
 import time
@@ -9,11 +11,14 @@ import logging
 # Proxyを無視する設定
 os.environ['NO_PROXY'] = '*'
 
+# 現在のワーキングディレクトリを取得
+current_dir = os.getcwd()
+
 # 翻訳前のファイルが入っているディレクトリを定義
-SOURCE_DIR = "/home/t-yano/src/fleet-docs/docs/"
+SOURCE_DIR = os.path.abspath(current_dir + "/../fleet-docs/docs")
 
 # 翻訳後のファイルを入れるディレクトリを定義
-TARGET_DIR = "/home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/"
+TARGET_DIR = os.path.abspath(current_dir + "/../fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs")
 
 # 翻訳実行日時を記録するファイル
 EXEC_DATE_FILE = "exec_date_translation.txt"
