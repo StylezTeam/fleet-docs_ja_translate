@@ -10,10 +10,10 @@ import logging
 os.environ['NO_PROXY'] = '*'
 
 # 翻訳前のファイルが入っているディレクトリを定義
-SOURCE_DIR = "/home/t-yano/src/gptscript/docs/docs"
+SOURCE_DIR = "/home/t-yano/src/fleet-docs/docs/"
 
 # 翻訳後のファイルを入れるディレクトリを定義
-TARGET_DIR = "/home/t-yano/src/gptscript_docs_ja/docs/docs/"
+TARGET_DIR = "/home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/"
 
 # 翻訳実行日時を記録するファイル
 EXEC_DATE_FILE = "exec_date_translation.txt"
@@ -195,8 +195,8 @@ if __name__ == "__main__":
                     log_message = "すべての要素が一致しています。\n-----"
                     print(log_message)
                     logging.info(log_message)
+            update_translation_date()
 
-    update_translation_date()
-    log_message = "全てのファイルの翻訳が完了しました。"
+    log_message = "----全てのファイルの翻訳が完了しました----"
     print(log_message)
     logging.info(log_message)
