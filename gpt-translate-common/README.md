@@ -19,18 +19,26 @@ OPENAI_API_KEY=
 
 本リポジトリは、git subtreeで読み込ませて利用することをおすすめします。
 
-1. 翻訳したいリポジトリをcloneする
+1. 翻訳したいリポジトリをローカルにcloneする
 2. 翻訳したいリポジトリ名に_jaと付けたリポジトリをGitLabやGitHub上で作成する。
    これを翻訳されたファイルを保存するターゲットリポジトリとします。
-3. ターゲットリポジトリをcloneする。
-4. ターゲットリポジトリに本リポジトリ(gpt-translate-common-en-ja)をgit subtreeで読み込む
+3. ターゲットリポジトリをローカルにcloneする。
+4. 本スクリプトを入れるツール用リポジトリを作成する。
+4. ツール用リポジトリに本リポジトリ(gpt-translate-common-en-ja)をgit subtreeで読み込む
 5. 翻訳前のファイルが入っているディレクトリをmarkdown_translator_openai.py内で定義
-(定義例: SOURCE_DIR = "/home/t-yano/src/gptscript/docs/docs" )
+(定義例: SOURCE_DIR = os.path.abspath(current_dir + "/../fleet-docs/docs") )
 6. 翻訳後のファイルを入れるディレクトリをmarkdown_translator_openai.py内で定義
-(定義例: TARGET_DIR = "/home/t-yano/src/gptscript_ja/docs/docs/" )
+(定義例: TARGET_DIR = os.path.abspath(current_dir + "/../fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs") )
 7. python3の仮想環境を作成して、有効化
 8. pip3で必要なpythonモジュールをインストール
 9. python3 ./markdown_translator_openai.py で翻訳を開始する
+
+## ディレクトリ構造
+
+- <翻訳したいリポジトリのディレクトリ>
+- <翻訳後のファイルを入れるリポジトリ>
+- <本ツールを入れるツール用リポジトリ>
+上記のように並列に並べてください。
 
 ## 補足
 
