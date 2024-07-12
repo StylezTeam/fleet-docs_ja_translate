@@ -213,7 +213,7 @@ if __name__ == "__main__":
                     for mismatch in mismatches:
                         print(mismatch)
                         logging.warning(mismatch)
-                    log_message = "★★Some elements do not match. Verification needed.★★\n-----"
+                    log_message = "### Some elements do not match. Verification needed. ###\n-----"
                     print(log_message)
                     logging.warning(log_message)
                 else:
