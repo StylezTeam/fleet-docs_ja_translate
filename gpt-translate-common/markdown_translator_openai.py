@@ -171,7 +171,8 @@ if __name__ == "__main__":
                         'Bullet points': content.count('\n- '),
                         'Notice': content.count(':::'),
                         'Hyperlinks': content.count(']('),
-                        'Emphasis': len(re.findall(r'(?<!`)`[^`\n]+?`(?!`)', content, re.UNICODE))
+                        'Emphasis': len(re.findall(r'(?<!`)`[^`\n]+?`(?!`)', content, re.UNICODE)),
+                        'Bold': len(re.findall(r'\*\*[^*\n]+?\*\*', content, re.UNICODE))
                     }
                 
                 source_counts = count_markdown_elements(source_path)
