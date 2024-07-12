@@ -1094,3 +1094,208 @@ We are still working on t...
 2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
 -----
 2024-07-10 13:18:55 - INFO - ----全てのファイルの翻訳が完了しました----
+2024-07-12 11:25:14 - INFO - Translation process started
+2024-07-12 11:25:14 - INFO - Skipping: index.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-targets.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: namespaces.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 52, Translated: 49)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-resources.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: webhook.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: imagescan.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: multi-user.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: installation.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 32)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 30)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: bundle-add.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: uninstall.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-registration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-content.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 91, Translated: 92)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-bundles-state.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: resource-counts-and-resources-list.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: resources-during-deployment.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-bundle-stages.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-fleet-yaml.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 11)
+2024-07-12 11:25:14 - WARNING - H1: Mismatch (Source: 29, Translated: 13)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-crds.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-bundle.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-registration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 33)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 54, Translated: 53)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: architecture.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-add.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 14, Translated: 17)
+2024-07-12 11:25:14 - WARNING - Notice: Mismatch (Source: 11, Translated: 12)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 37, Translated: 36)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: quickstart.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: tut-deployment.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 35)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 28, Translated: 33)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: concepts.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-configuration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-group.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: bundle-diffs.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-gitrepo.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: troubleshooting.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Hyperlinks: Mismatch (Source: 8, Translated: 6)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 73, Translated: 70)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_apply.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_gitcloner.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_test.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_cleanup.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_deploy.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_target.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent_register.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent_clusterstatus.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_cleanup.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_agentmanagement.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_gitjob.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: changelogs/index.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: changelogs/changelogs/next.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - ----Translation of all files completed----
