@@ -1,0 +1,1723 @@
+2024-07-10 11:04:31 - INFO - 翻訳処理開始
+2024-07-10 11:04:31 - INFO - 翻訳中: index.md (新規ファイル)
+2024-07-10 11:04:31 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/index.md
+2024-07-10 11:04:31 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 11:04:31 - INFO - 翻訳開始: # Overview
+
+![](/img/fleet-architecture.svg)
+
+### ...
+2024-07-10 11:04:37 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 11:04:37 - INFO - 翻訳完了
+2024-07-10 11:04:37 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/index.md
+2024-07-10 11:04:37 - INFO - Markdownの要素の比較:
+2024-07-10 11:04:37 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 11:04:37 - INFO - 翻訳中: gitrepo-targets.md (新規ファイル)
+2024-07-10 11:04:37 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/gitrepo-targets.md
+2024-07-10 11:04:37 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 11:04:37 - INFO - 翻訳開始: # Mapping to Downstream Clusters
+
+[Fleet in Ranche...
+2024-07-10 11:05:06 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 11:05:06 - INFO - 翻訳完了
+2024-07-10 11:05:06 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/gitrepo-targets.md
+2024-07-10 11:05:06 - INFO - Markdownの要素の比較:
+2024-07-10 11:05:06 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 11:05:06 - INFO - 翻訳中: namespaces.md (新規ファイル)
+2024-07-10 11:05:06 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/namespaces.md
+2024-07-10 11:05:06 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 11:05:06 - INFO - 翻訳開始: # Namespaces
+
+All types in the Fleet manager are n...
+2024-07-10 12:04:54 - INFO - 翻訳処理開始
+2024-07-10 12:04:54 - INFO - 翻訳中: index.md (更新あり)
+2024-07-10 12:04:54 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/index.md
+2024-07-10 12:04:54 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:04:54 - INFO - 翻訳開始: # Overview
+
+![](/img/fleet-architecture.svg)
+
+### ...
+2024-07-10 12:04:59 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:04:59 - INFO - 翻訳完了
+2024-07-10 12:04:59 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/index.md
+2024-07-10 12:04:59 - INFO - Markdownの要素の比較:
+2024-07-10 12:04:59 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:04:59 - INFO - 翻訳中: gitrepo-targets.md (更新あり)
+2024-07-10 12:04:59 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/gitrepo-targets.md
+2024-07-10 12:04:59 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:04:59 - INFO - 翻訳開始: # Mapping to Downstream Clusters
+
+[Fleet in Ranche...
+2024-07-10 12:05:30 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:05:30 - INFO - 翻訳完了
+2024-07-10 12:05:30 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/gitrepo-targets.md
+2024-07-10 12:05:30 - INFO - Markdownの要素の比較:
+2024-07-10 12:05:30 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:05:30 - INFO - 翻訳中: namespaces.md (新規ファイル)
+2024-07-10 12:05:30 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/namespaces.md
+2024-07-10 12:05:30 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:05:30 - INFO - 翻訳開始: # Namespaces
+
+All types in the Fleet manager are n...
+2024-07-10 12:05:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:05:56 - INFO - 翻訳完了
+2024-07-10 12:05:56 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/namespaces.md
+2024-07-10 12:05:56 - INFO - Markdownの要素の比較:
+2024-07-10 12:05:56 - WARNING - 強調: 不一致 (元: 52, 翻訳後: 49)
+2024-07-10 12:05:56 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:05:56 - INFO - 翻訳中: ref-resources.md (新規ファイル)
+2024-07-10 12:05:56 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-resources.md
+2024-07-10 12:05:56 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:05:56 - INFO - 翻訳開始: # List of Deployed Resources
+
+After installing Fle...
+2024-07-10 12:06:02 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:06:02 - INFO - 翻訳完了
+2024-07-10 12:06:02 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-resources.md
+2024-07-10 12:06:02 - INFO - Markdownの要素の比較:
+2024-07-10 12:06:02 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:06:02 - INFO - 翻訳中: webhook.md (新規ファイル)
+2024-07-10 12:06:02 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/webhook.md
+2024-07-10 12:06:02 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:06:02 - INFO - 翻訳開始: # Using Webhooks Instead of Polling
+
+By default, F...
+2024-07-10 12:06:18 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:06:18 - INFO - 翻訳完了
+2024-07-10 12:06:18 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/webhook.md
+2024-07-10 12:06:18 - INFO - Markdownの要素の比較:
+2024-07-10 12:06:18 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:06:18 - INFO - 翻訳中: imagescan.md (新規ファイル)
+2024-07-10 12:06:18 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/imagescan.md
+2024-07-10 12:06:18 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:06:18 - INFO - 翻訳開始: # Using Image Scan to Update Container Image Refer...
+2024-07-10 12:06:31 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:06:31 - INFO - 翻訳完了
+2024-07-10 12:06:31 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/imagescan.md
+2024-07-10 12:06:31 - INFO - Markdownの要素の比較:
+2024-07-10 12:06:31 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:06:31 - INFO - 翻訳中: multi-user.md (新規ファイル)
+2024-07-10 12:06:31 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/multi-user.md
+2024-07-10 12:06:31 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:06:31 - INFO - 翻訳開始: # Setup Multi User
+
+Fleet uses Kubernetes RBAC whe...
+2024-07-10 12:06:59 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:06:59 - INFO - 翻訳完了
+2024-07-10 12:06:59 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/multi-user.md
+2024-07-10 12:06:59 - INFO - Markdownの要素の比較:
+2024-07-10 12:06:59 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:06:59 - INFO - 翻訳中: installation.md (新規ファイル)
+2024-07-10 12:06:59 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/installation.md
+2024-07-10 12:06:59 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:06:59 - INFO - 翻訳開始: import {versions} from '@site/src/fleetVersions';
+...
+2024-07-10 12:07:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:07:47 - INFO - 翻訳完了
+2024-07-10 12:07:47 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:07:48 - INFO - 翻訳開始: AwICpDAPBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49BAMCA0cAME...
+2024-07-10 12:07:58 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:07:58 - INFO - 翻訳完了
+2024-07-10 12:07:58 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/installation.md
+2024-07-10 12:07:58 - INFO - Markdownの要素の比較:
+2024-07-10 12:07:58 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 12:07:58 - WARNING - 強調: 不一致 (元: 29, 翻訳後: 30)
+2024-07-10 12:07:58 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:07:58 - INFO - 翻訳中: bundle-add.md (新規ファイル)
+2024-07-10 12:07:58 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/bundle-add.md
+2024-07-10 12:07:58 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:07:58 - INFO - 翻訳開始: # Create a Bundle Resource
+
+Bundles are automatica...
+2024-07-10 12:08:13 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:08:13 - INFO - 翻訳完了
+2024-07-10 12:08:13 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/bundle-add.md
+2024-07-10 12:08:13 - INFO - Markdownの要素の比較:
+2024-07-10 12:08:13 - WARNING - 強調: 不一致 (元: 16, 翻訳後: 15)
+2024-07-10 12:08:13 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:08:13 - INFO - 翻訳中: uninstall.md (新規ファイル)
+2024-07-10 12:08:13 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/uninstall.md
+2024-07-10 12:08:13 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:08:13 - INFO - 翻訳開始: # Uninstall
+
+Fleet is packaged as two Helm charts ...
+2024-07-10 12:08:16 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:08:16 - INFO - 翻訳完了
+2024-07-10 12:08:16 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/uninstall.md
+2024-07-10 12:08:16 - INFO - Markdownの要素の比較:
+2024-07-10 12:08:16 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:08:16 - INFO - 翻訳中: ref-registration.md (新規ファイル)
+2024-07-10 12:08:16 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-registration.md
+2024-07-10 12:08:16 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:08:16 - INFO - 翻訳開始: # Cluster Registration Internals
+
+## How does clus...
+2024-07-10 12:08:48 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:08:48 - INFO - 翻訳完了
+2024-07-10 12:08:48 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-registration.md
+2024-07-10 12:08:48 - INFO - Markdownの要素の比較:
+2024-07-10 12:08:48 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:08:48 - INFO - 翻訳中: gitrepo-content.md (新規ファイル)
+2024-07-10 12:08:48 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/gitrepo-content.md
+2024-07-10 12:08:48 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:08:48 - INFO - 翻訳開始: # Git Repository Contents
+
+Fleet will create bundl...
+2024-07-10 12:09:31 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:09:31 - INFO - 翻訳完了
+2024-07-10 12:09:31 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:09:31 - INFO - 翻訳開始: Which strategy is used is based on the file conten...
+2024-07-10 12:09:36 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:09:36 - INFO - 翻訳完了
+2024-07-10 12:09:36 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/gitrepo-content.md
+2024-07-10 12:09:36 - INFO - Markdownの要素の比較:
+2024-07-10 12:09:36 - WARNING - 強調: 不一致 (元: 91, 翻訳後: 92)
+2024-07-10 12:09:36 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:09:36 - INFO - 翻訳中: cluster-bundles-state.md (新規ファイル)
+2024-07-10 12:09:36 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cluster-bundles-state.md
+2024-07-10 12:09:36 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:09:36 - INFO - 翻訳開始: # Cluster and Bundle State
+
+Clusters and Bundles h...
+2024-07-10 12:09:42 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:09:42 - INFO - 翻訳完了
+2024-07-10 12:09:42 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cluster-bundles-state.md
+2024-07-10 12:09:42 - INFO - Markdownの要素の比較:
+2024-07-10 12:09:42 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:09:42 - INFO - 翻訳中: resource-counts-and-resources-list.md (新規ファイル)
+2024-07-10 12:09:42 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/resource-counts-and-resources-list.md
+2024-07-10 12:09:42 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:09:42 - INFO - 翻訳開始: # Resources List
+
+This document outlines the deplo...
+2024-07-10 12:09:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:09:45 - INFO - 翻訳完了
+2024-07-10 12:09:45 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/resource-counts-and-resources-list.md
+2024-07-10 12:09:45 - INFO - Markdownの要素の比較:
+2024-07-10 12:09:45 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 12:09:45 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:09:45 - INFO - 翻訳中: resources-during-deployment.md (新規ファイル)
+2024-07-10 12:09:45 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/resources-during-deployment.md
+2024-07-10 12:09:45 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:09:45 - INFO - 翻訳開始: # Custom Resources During Deployment
+
+This shows t...
+2024-07-10 12:09:47 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:09:47 - INFO - 翻訳完了
+2024-07-10 12:09:47 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/resources-during-deployment.md
+2024-07-10 12:09:47 - INFO - Markdownの要素の比較:
+2024-07-10 12:09:47 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:09:47 - INFO - 翻訳中: ref-bundle-stages.md (新規ファイル)
+2024-07-10 12:09:47 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-bundle-stages.md
+2024-07-10 12:09:47 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:09:47 - INFO - 翻訳開始: # Bundle Lifecycle
+
+A bundle is an internal resour...
+2024-07-10 12:10:04 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:10:04 - INFO - 翻訳完了
+2024-07-10 12:10:04 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-bundle-stages.md
+2024-07-10 12:10:04 - INFO - Markdownの要素の比較:
+2024-07-10 12:10:04 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:10:04 - INFO - 翻訳中: ref-fleet-yaml.md (新規ファイル)
+2024-07-10 12:10:04 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-fleet-yaml.md
+2024-07-10 12:10:04 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:10:05 - INFO - 翻訳開始: # fleet.yaml
+
+The `fleet.yaml` file adds options t...
+2024-07-10 12:10:57 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:10:58 - INFO - 翻訳完了
+2024-07-10 12:10:58 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:10:58 - INFO - 翻訳開始:     # replacing the existing one.  This can be fix...
+2024-07-10 12:11:14 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:11:14 - INFO - 翻訳完了
+2024-07-10 12:11:14 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-fleet-yaml.md
+2024-07-10 12:11:14 - INFO - Markdownの要素の比較:
+2024-07-10 12:11:14 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 11)
+2024-07-10 12:11:14 - WARNING - H1: 不一致 (元: 29, 翻訳後: 13)
+2024-07-10 12:11:14 - WARNING - 強調: 不一致 (元: 25, 翻訳後: 26)
+2024-07-10 12:11:14 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:11:14 - INFO - 翻訳中: ref-crds.md (新規ファイル)
+2024-07-10 12:11:14 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-crds.md
+2024-07-10 12:11:14 - INFO - チャンク 1/7 を翻訳中...
+2024-07-10 12:11:14 - INFO - 翻訳開始: # Custom Resources Spec
+
+* [Bundle](#bundle)
+* [Bu...
+2024-07-10 12:12:10 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:12:10 - INFO - 翻訳完了
+2024-07-10 12:12:10 - INFO - チャンク 2/7 を翻訳中...
+2024-07-10 12:12:10 - INFO - 翻訳開始: | pending | Pending is the number of bundle deploy...
+2024-07-10 12:12:50 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:12:50 - INFO - 翻訳完了
+2024-07-10 12:12:50 - INFO - チャンク 3/7 を翻訳中...
+2024-07-10 12:12:50 - INFO - 翻訳開始: [Back to Custom Resources](#custom-resources)
+
+###...
+2024-07-10 12:13:30 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:13:30 - INFO - 翻訳完了
+2024-07-10 12:13:30 - INFO - チャンク 4/7 を翻訳中...
+2024-07-10 12:13:30 - INFO - 翻訳開始: | namespace | Namespace is the namespace of the ag...
+2024-07-10 12:14:11 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:14:11 - INFO - 翻訳完了
+2024-07-10 12:14:11 - INFO - チャンク 5/7 を翻訳中...
+2024-07-10 12:14:11 - INFO - 翻訳開始: | ----- | ----------- | ------ | -------- |
+| meta...
+2024-07-10 12:14:57 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:14:57 - INFO - 翻訳完了
+2024-07-10 12:14:57 - INFO - チャンク 6/7 を翻訳中...
+2024-07-10 12:14:57 - INFO - 翻訳開始: | helmRepoURLRegex | HelmRepoURLRegex Helm credent...
+2024-07-10 12:15:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:15:38 - INFO - 翻訳完了
+2024-07-10 12:15:38 - INFO - チャンク 7/7 を翻訳中...
+2024-07-10 12:15:38 - INFO - 翻訳開始: | canonicalImageName | CanonicalName is the name o...
+2024-07-10 12:15:41 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:15:41 - INFO - 翻訳完了
+2024-07-10 12:15:41 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-crds.md
+2024-07-10 12:15:41 - INFO - Markdownの要素の比較:
+2024-07-10 12:15:41 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:15:41 - INFO - 翻訳中: ref-bundle.md (新規ファイル)
+2024-07-10 12:15:41 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-bundle.md
+2024-07-10 12:15:41 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:15:41 - INFO - 翻訳開始: # Bundle Resource
+
+Bundles are automatically creat...
+2024-07-10 12:15:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:15:54 - INFO - 翻訳完了
+2024-07-10 12:15:54 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-bundle.md
+2024-07-10 12:15:54 - INFO - Markdownの要素の比較:
+2024-07-10 12:15:54 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:15:54 - INFO - 翻訳中: cluster-registration.md (新規ファイル)
+2024-07-10 12:15:54 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cluster-registration.md
+2024-07-10 12:15:54 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:15:54 - INFO - 翻訳開始: import {versions} from '@site/src/fleetVersions';
+...
+2024-07-10 12:17:08 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:17:09 - INFO - 翻訳完了
+2024-07-10 12:17:09 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:17:09 - INFO - 翻訳開始: For manager-initiated registrations the token is m...
+2024-07-10 12:17:27 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:17:27 - INFO - 翻訳完了
+2024-07-10 12:17:27 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cluster-registration.md
+2024-07-10 12:17:27 - INFO - Markdownの要素の比較:
+2024-07-10 12:17:27 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 33)
+2024-07-10 12:17:27 - WARNING - 強調: 不一致 (元: 54, 翻訳後: 53)
+2024-07-10 12:17:27 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:17:27 - INFO - 翻訳中: architecture.md (新規ファイル)
+2024-07-10 12:17:27 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/architecture.md
+2024-07-10 12:17:27 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:17:27 - INFO - 翻訳開始: # Architecture
+
+Fleet has two primary components. ...
+2024-07-10 12:17:38 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:17:38 - INFO - 翻訳完了
+2024-07-10 12:17:38 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/architecture.md
+2024-07-10 12:17:38 - INFO - Markdownの要素の比較:
+2024-07-10 12:17:38 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:17:38 - INFO - 翻訳中: gitrepo-add.md (新規ファイル)
+2024-07-10 12:17:38 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/gitrepo-add.md
+2024-07-10 12:17:38 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:17:38 - INFO - 翻訳開始: # Create a GitRepo Resource
+
+## Create GitRepo Ins...
+2024-07-10 12:18:30 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:18:30 - INFO - 翻訳完了
+2024-07-10 12:18:30 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:18:30 - INFO - 翻訳開始: In the previous example credentials for username `...
+2024-07-10 12:18:34 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:18:34 - INFO - 翻訳完了
+2024-07-10 12:18:34 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/gitrepo-add.md
+2024-07-10 12:18:34 - INFO - Markdownの要素の比較:
+2024-07-10 12:18:34 - WARNING - コードブロック: 不一致 (元: 14, 翻訳後: 17)
+2024-07-10 12:18:34 - WARNING - notice: 不一致 (元: 11, 翻訳後: 12)
+2024-07-10 12:18:34 - WARNING - 強調: 不一致 (元: 37, 翻訳後: 36)
+2024-07-10 12:18:34 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:18:34 - INFO - 翻訳中: quickstart.md (新規ファイル)
+2024-07-10 12:18:34 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/quickstart.md
+2024-07-10 12:18:34 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:18:34 - INFO - 翻訳開始: import {versions} from '@site/src/fleetVersions';
+...
+2024-07-10 12:18:44 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:18:44 - INFO - 翻訳完了
+2024-07-10 12:18:44 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/quickstart.md
+2024-07-10 12:18:44 - INFO - Markdownの要素の比較:
+2024-07-10 12:18:44 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 10)
+2024-07-10 12:18:44 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:18:44 - INFO - 翻訳中: tut-deployment.md (新規ファイル)
+2024-07-10 12:18:44 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/tut-deployment.md
+2024-07-10 12:18:44 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:18:44 - INFO - 翻訳開始: import CodeBlock from '@theme/CodeBlock';
+import T...
+2024-07-10 12:19:28 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:19:28 - INFO - 翻訳完了
+2024-07-10 12:19:28 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:19:29 - INFO - 翻訳開始:     clusterSelector:
+      matchLabels:
+        en...
+2024-07-10 12:19:45 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:19:45 - INFO - 翻訳完了
+2024-07-10 12:19:45 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/tut-deployment.md
+2024-07-10 12:19:45 - INFO - Markdownの要素の比較:
+2024-07-10 12:19:45 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 12:19:45 - WARNING - 強調: 不一致 (元: 28, 翻訳後: 33)
+2024-07-10 12:19:45 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:19:45 - INFO - 翻訳中: concepts.md (新規ファイル)
+2024-07-10 12:19:45 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/concepts.md
+2024-07-10 12:19:45 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:19:45 - INFO - 翻訳開始: # Core Concepts
+
+Fleet is fundamentally a set of K...
+2024-07-10 12:20:01 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:20:01 - INFO - 翻訳完了
+2024-07-10 12:20:01 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/concepts.md
+2024-07-10 12:20:01 - INFO - Markdownの要素の比較:
+2024-07-10 12:20:01 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 12:20:01 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:20:01 - INFO - 翻訳中: ref-configuration.md (新規ファイル)
+2024-07-10 12:20:01 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-configuration.md
+2024-07-10 12:20:01 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:20:01 - INFO - 翻訳開始: # Configuration
+
+A reference list of, mostly inter...
+2024-07-10 12:20:18 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:20:18 - INFO - 翻訳完了
+2024-07-10 12:20:18 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-configuration.md
+2024-07-10 12:20:18 - INFO - Markdownの要素の比較:
+2024-07-10 12:20:18 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:20:18 - INFO - 翻訳中: cluster-group.md (新規ファイル)
+2024-07-10 12:20:18 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cluster-group.md
+2024-07-10 12:20:18 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:20:18 - INFO - 翻訳開始: # Create Cluster Groups
+
+Clusters in a namespace c...
+2024-07-10 12:20:21 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:20:21 - INFO - 翻訳完了
+2024-07-10 12:20:21 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cluster-group.md
+2024-07-10 12:20:21 - INFO - Markdownの要素の比較:
+2024-07-10 12:20:21 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:20:21 - INFO - 翻訳中: bundle-diffs.md (新規ファイル)
+2024-07-10 12:20:21 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/bundle-diffs.md
+2024-07-10 12:20:21 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:20:21 - INFO - 翻訳開始: # Generating Diffs to Ignore Modified GitRepos
+
+
+C...
+2024-07-10 12:20:56 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:20:56 - INFO - 翻訳完了
+2024-07-10 12:20:56 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/bundle-diffs.md
+2024-07-10 12:20:56 - INFO - Markdownの要素の比較:
+2024-07-10 12:20:56 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:20:56 - INFO - 翻訳中: ref-gitrepo.md (新規ファイル)
+2024-07-10 12:20:56 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/ref-gitrepo.md
+2024-07-10 12:20:56 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:20:56 - INFO - 翻訳開始: # GitRepo Resource
+
+The GitRepo resource describes...
+2024-07-10 12:21:21 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:21:21 - INFO - 翻訳完了
+2024-07-10 12:21:21 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-gitrepo.md
+2024-07-10 12:21:21 - INFO - Markdownの要素の比較:
+2024-07-10 12:21:21 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:21:21 - INFO - 翻訳中: troubleshooting.md (新規ファイル)
+2024-07-10 12:21:21 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/troubleshooting.md
+2024-07-10 12:21:21 - INFO - チャンク 1/2 を翻訳中...
+2024-07-10 12:21:21 - INFO - 翻訳開始: # Troubleshooting
+
+This section contains commands ...
+2024-07-10 12:22:06 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:06 - INFO - 翻訳完了
+2024-07-10 12:22:06 - INFO - チャンク 2/2 を翻訳中...
+2024-07-10 12:22:06 - INFO - 翻訳開始: ### Migrate the local cluster to the Fleet default...
+2024-07-10 12:22:10 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:10 - INFO - 翻訳完了
+2024-07-10 12:22:10 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/troubleshooting.md
+2024-07-10 12:22:10 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:10 - WARNING - ハイパーリンク: 不一致 (元: 8, 翻訳後: 6)
+2024-07-10 12:22:10 - WARNING - 強調: 不一致 (元: 73, 翻訳後: 70)
+2024-07-10 12:22:10 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 12:22:10 - INFO - 翻訳中: cli/fleet-cli/fleet_apply.md (新規ファイル)
+2024-07-10 12:22:10 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_apply.md
+2024-07-10 12:22:10 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:10 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet apply"
+---
+## ...
+2024-07-10 12:22:20 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:20 - INFO - 翻訳完了
+2024-07-10 12:22:20 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_apply.md
+2024-07-10 12:22:20 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:20 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:20 - INFO - 翻訳中: cli/fleet-cli/fleet_gitcloner.md (新規ファイル)
+2024-07-10 12:22:20 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_gitcloner.md
+2024-07-10 12:22:20 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:20 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet gitcloner"
+---...
+2024-07-10 12:22:23 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:23 - INFO - 翻訳完了
+2024-07-10 12:22:23 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_gitcloner.md
+2024-07-10 12:22:23 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:23 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:23 - INFO - 翻訳中: cli/fleet-cli/fleet_test.md (新規ファイル)
+2024-07-10 12:22:23 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_test.md
+2024-07-10 12:22:23 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:23 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet test"
+---
+## f...
+2024-07-10 12:22:27 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:27 - INFO - 翻訳完了
+2024-07-10 12:22:27 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_test.md
+2024-07-10 12:22:27 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:27 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:27 - INFO - 翻訳中: cli/fleet-cli/fleet.md (新規ファイル)
+2024-07-10 12:22:27 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet.md
+2024-07-10 12:22:27 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:27 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet"
+---
+## fleet
+...
+2024-07-10 12:22:31 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:31 - INFO - 翻訳完了
+2024-07-10 12:22:31 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet.md
+2024-07-10 12:22:31 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:31 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:31 - INFO - 翻訳中: cli/fleet-cli/fleet_cleanup.md (新規ファイル)
+2024-07-10 12:22:31 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_cleanup.md
+2024-07-10 12:22:31 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:31 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet cleanup"
+---
+#...
+2024-07-10 12:22:35 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:35 - INFO - 翻訳完了
+2024-07-10 12:22:35 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_cleanup.md
+2024-07-10 12:22:35 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:35 - INFO - 翻訳中: cli/fleet-cli/fleet_deploy.md (新規ファイル)
+2024-07-10 12:22:35 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_deploy.md
+2024-07-10 12:22:35 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:35 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet deploy"
+---
+##...
+2024-07-10 12:22:42 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:42 - INFO - 翻訳完了
+2024-07-10 12:22:42 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_deploy.md
+2024-07-10 12:22:42 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:42 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:42 - INFO - 翻訳中: cli/fleet-cli/fleet_target.md (新規ファイル)
+2024-07-10 12:22:42 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-cli/fleet_target.md
+2024-07-10 12:22:42 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:42 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet target"
+---
+##...
+2024-07-10 12:22:51 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:51 - INFO - 翻訳完了
+2024-07-10 12:22:51 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-cli/fleet_target.md
+2024-07-10 12:22:51 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:51 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:51 - INFO - 翻訳中: cli/fleet-agent/fleet-agent.md (新規ファイル)
+2024-07-10 12:22:51 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-agent/fleet-agent.md
+2024-07-10 12:22:51 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:51 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-agent"
+---
+## ...
+2024-07-10 12:22:58 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:22:58 - INFO - 翻訳完了
+2024-07-10 12:22:58 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-agent/fleet-agent.md
+2024-07-10 12:22:58 - INFO - Markdownの要素の比較:
+2024-07-10 12:22:58 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:22:58 - INFO - 翻訳中: cli/fleet-agent/fleet-agent_register.md (新規ファイル)
+2024-07-10 12:22:58 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-agent/fleet-agent_register.md
+2024-07-10 12:22:58 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:22:58 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-agent register...
+2024-07-10 12:23:01 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:01 - INFO - 翻訳完了
+2024-07-10 12:23:01 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-agent/fleet-agent_register.md
+2024-07-10 12:23:01 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:01 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:01 - INFO - 翻訳中: cli/fleet-agent/fleet-agent_clusterstatus.md (新規ファイル)
+2024-07-10 12:23:01 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-agent/fleet-agent_clusterstatus.md
+2024-07-10 12:23:01 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:01 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-agent clusters...
+2024-07-10 12:23:05 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:05 - INFO - 翻訳完了
+2024-07-10 12:23:05 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-agent/fleet-agent_clusterstatus.md
+2024-07-10 12:23:05 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:05 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:05 - INFO - 翻訳中: cli/fleet-controller/fleet-manager_cleanup.md (新規ファイル)
+2024-07-10 12:23:05 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-controller/fleet-manager_cleanup.md
+2024-07-10 12:23:05 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:05 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-manager cleanu...
+2024-07-10 12:23:08 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:08 - INFO - 翻訳完了
+2024-07-10 12:23:08 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-controller/fleet-manager_cleanup.md
+2024-07-10 12:23:08 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:08 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:08 - INFO - 翻訳中: cli/fleet-controller/fleet-manager.md (新規ファイル)
+2024-07-10 12:23:08 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-controller/fleet-manager.md
+2024-07-10 12:23:08 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:08 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-manager"
+---
+#...
+2024-07-10 12:23:15 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:15 - INFO - 翻訳完了
+2024-07-10 12:23:15 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-controller/fleet-manager.md
+2024-07-10 12:23:15 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:15 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:15 - INFO - 翻訳中: cli/fleet-controller/fleet-manager_agentmanagement.md (新規ファイル)
+2024-07-10 12:23:15 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-controller/fleet-manager_agentmanagement.md
+2024-07-10 12:23:15 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:15 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-manager agentm...
+2024-07-10 12:23:18 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:18 - INFO - 翻訳完了
+2024-07-10 12:23:18 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-controller/fleet-manager_agentmanagement.md
+2024-07-10 12:23:18 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:18 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:18 - INFO - 翻訳中: cli/fleet-controller/fleet-manager_gitjob.md (新規ファイル)
+2024-07-10 12:23:18 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/cli/fleet-controller/fleet-manager_gitjob.md
+2024-07-10 12:23:18 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:18 - INFO - 翻訳開始: ---
+title: ""
+sidebar_label: "fleet-manager gitjob...
+2024-07-10 12:23:22 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:22 - INFO - 翻訳完了
+2024-07-10 12:23:22 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/cli/fleet-controller/fleet-manager_gitjob.md
+2024-07-10 12:23:22 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:22 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:22 - INFO - 翻訳中: changelogs/index.md (新規ファイル)
+2024-07-10 12:23:22 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/changelogs/index.md
+2024-07-10 12:23:22 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:22 - INFO - 翻訳開始: ---
+title: "Next 🚧"
+---
+
+We are still working on t...
+2024-07-10 12:23:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:24 - INFO - 翻訳完了
+2024-07-10 12:23:24 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/changelogs/index.md
+2024-07-10 12:23:24 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:24 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:24 - INFO - 翻訳中: changelogs/changelogs/next.md (新規ファイル)
+2024-07-10 12:23:24 - INFO - ファイル翻訳開始: /home/t-yano/src/fleet-docs/docs/changelogs/changelogs/next.md
+2024-07-10 12:23:24 - INFO - チャンク 1/1 を翻訳中...
+2024-07-10 12:23:24 - INFO - 翻訳開始: ---
+title: "Next 🚧"
+---
+
+We are still working on t...
+2024-07-10 12:23:24 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-10 12:23:24 - INFO - 翻訳完了
+2024-07-10 12:23:24 - INFO - 翻訳完了。出力先: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/changelogs/changelogs/next.md
+2024-07-10 12:23:24 - INFO - Markdownの要素の比較:
+2024-07-10 12:23:24 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 12:23:24 - INFO - 全てのファイルの翻訳が完了しました。
+2024-07-10 13:08:35 - INFO - 翻訳処理開始
+2024-07-10 13:08:35 - INFO - スキップ: index.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: gitrepo-targets.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: namespaces.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 52, 翻訳後: 49)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-resources.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: webhook.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: imagescan.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: multi-user.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: installation.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 29, 翻訳後: 30)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: bundle-add.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 16, 翻訳後: 15)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: uninstall.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-registration.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: gitrepo-content.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 91, 翻訳後: 92)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cluster-bundles-state.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: resource-counts-and-resources-list.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: resources-during-deployment.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-bundle-stages.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-fleet-yaml.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 11)
+2024-07-10 13:08:35 - WARNING - H1: 不一致 (元: 29, 翻訳後: 13)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 25, 翻訳後: 26)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-crds.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-bundle.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cluster-registration.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 33)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 54, 翻訳後: 53)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: architecture.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: gitrepo-add.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 14, 翻訳後: 17)
+2024-07-10 13:08:35 - WARNING - notice: 不一致 (元: 11, 翻訳後: 12)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 37, 翻訳後: 36)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: quickstart.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 10)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: tut-deployment.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 28, 翻訳後: 33)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: concepts.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-configuration.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cluster-group.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: bundle-diffs.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: ref-gitrepo.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: troubleshooting.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - WARNING - ハイパーリンク: 不一致 (元: 8, 翻訳後: 6)
+2024-07-10 13:08:35 - WARNING - 強調: 不一致 (元: 73, 翻訳後: 70)
+2024-07-10 13:08:35 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_apply.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_gitcloner.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_test.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_cleanup.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_deploy.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-cli/fleet_target.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-agent/fleet-agent.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-agent/fleet-agent_register.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-agent/fleet-agent_clusterstatus.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-controller/fleet-manager_cleanup.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-controller/fleet-manager.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-controller/fleet-manager_agentmanagement.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: cli/fleet-controller/fleet-manager_gitjob.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: changelogs/index.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - スキップ: changelogs/changelogs/next.md (変更なし)
+2024-07-10 13:08:35 - INFO - Markdownの要素の比較:
+2024-07-10 13:08:35 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:08:35 - INFO - 全てのファイルの翻訳が完了しました。
+2024-07-10 13:18:55 - INFO - 翻訳処理開始
+2024-07-10 13:18:55 - INFO - スキップ: index.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: gitrepo-targets.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: namespaces.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 52, 翻訳後: 49)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-resources.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: webhook.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: imagescan.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: multi-user.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: installation.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 29, 翻訳後: 30)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: bundle-add.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 16, 翻訳後: 15)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: uninstall.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-registration.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: gitrepo-content.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 91, 翻訳後: 92)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cluster-bundles-state.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: resource-counts-and-resources-list.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: resources-during-deployment.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-bundle-stages.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-fleet-yaml.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 11)
+2024-07-10 13:18:55 - WARNING - H1: 不一致 (元: 29, 翻訳後: 13)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 25, 翻訳後: 26)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-crds.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-bundle.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cluster-registration.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 33)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 54, 翻訳後: 53)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: architecture.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: gitrepo-add.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 14, 翻訳後: 17)
+2024-07-10 13:18:55 - WARNING - notice: 不一致 (元: 11, 翻訳後: 12)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 37, 翻訳後: 36)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: quickstart.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 8, 翻訳後: 10)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: tut-deployment.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - コードブロック: 不一致 (元: 30, 翻訳後: 35)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 28, 翻訳後: 33)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: concepts.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 11, 翻訳後: 10)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-configuration.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cluster-group.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: bundle-diffs.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: ref-gitrepo.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: troubleshooting.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - WARNING - ハイパーリンク: 不一致 (元: 8, 翻訳後: 6)
+2024-07-10 13:18:55 - WARNING - 強調: 不一致 (元: 73, 翻訳後: 70)
+2024-07-10 13:18:55 - WARNING - ★★一部の要素が一致していません。確認が必要です。★★
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_apply.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_gitcloner.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_test.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_cleanup.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_deploy.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-cli/fleet_target.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-agent/fleet-agent.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-agent/fleet-agent_register.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-agent/fleet-agent_clusterstatus.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-controller/fleet-manager_cleanup.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-controller/fleet-manager.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-controller/fleet-manager_agentmanagement.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: cli/fleet-controller/fleet-manager_gitjob.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: changelogs/index.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - スキップ: changelogs/changelogs/next.md (変更なし)
+2024-07-10 13:18:55 - INFO - Markdownの要素の比較:
+2024-07-10 13:18:55 - INFO - すべての要素が一致しています。
+-----
+2024-07-10 13:18:55 - INFO - ----全てのファイルの翻訳が完了しました----
+2024-07-12 11:25:14 - INFO - Translation process started
+2024-07-12 11:25:14 - INFO - Skipping: index.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-targets.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: namespaces.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 52, Translated: 49)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-resources.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: webhook.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: imagescan.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: multi-user.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: installation.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 32)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 30)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: bundle-add.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: uninstall.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-registration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-content.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 91, Translated: 92)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-bundles-state.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: resource-counts-and-resources-list.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: resources-during-deployment.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-bundle-stages.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-fleet-yaml.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 11)
+2024-07-12 11:25:14 - WARNING - H1: Mismatch (Source: 29, Translated: 13)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-crds.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-bundle.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-registration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 33)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 54, Translated: 53)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: architecture.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: gitrepo-add.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 14, Translated: 17)
+2024-07-12 11:25:14 - WARNING - Notice: Mismatch (Source: 11, Translated: 12)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 37, Translated: 36)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: quickstart.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: tut-deployment.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 35)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 28, Translated: 33)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: concepts.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-configuration.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cluster-group.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: bundle-diffs.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: ref-gitrepo.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: troubleshooting.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - WARNING - Hyperlinks: Mismatch (Source: 8, Translated: 6)
+2024-07-12 11:25:14 - WARNING - Emphasis: Mismatch (Source: 73, Translated: 70)
+2024-07-12 11:25:14 - WARNING - ★★Some elements do not match. Verification needed.★★
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_apply.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_gitcloner.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_test.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_cleanup.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_deploy.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-cli/fleet_target.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent_register.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-agent/fleet-agent_clusterstatus.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_cleanup.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_agentmanagement.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: cli/fleet-controller/fleet-manager_gitjob.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: changelogs/index.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - Skipping: changelogs/changelogs/next.md (no changes)
+2024-07-12 11:25:14 - INFO - Comparing Markdown elements:
+2024-07-12 11:25:14 - INFO - All elements match.
+-----
+2024-07-12 11:25:14 - INFO - ----Translation of all files completed----
+2024-07-12 11:36:55 - INFO - Translation process started
+2024-07-12 11:36:56 - INFO - Skipping: index.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: gitrepo-targets.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: namespaces.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 52, Translated: 49)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-resources.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: webhook.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: imagescan.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: multi-user.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: installation.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 32)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 30)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: bundle-add.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: uninstall.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-registration.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: gitrepo-content.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 91, Translated: 92)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cluster-bundles-state.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: resource-counts-and-resources-list.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: resources-during-deployment.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-bundle-stages.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-fleet-yaml.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 11)
+2024-07-12 11:36:56 - WARNING - H1: Mismatch (Source: 29, Translated: 13)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-crds.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-bundle.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cluster-registration.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 33)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 54, Translated: 53)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: architecture.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: gitrepo-add.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 14, Translated: 17)
+2024-07-12 11:36:56 - WARNING - Notice: Mismatch (Source: 11, Translated: 12)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 37, Translated: 36)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: quickstart.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 10)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: tut-deployment.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 35)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 28, Translated: 33)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: concepts.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-configuration.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cluster-group.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: bundle-diffs.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: ref-gitrepo.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: troubleshooting.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - WARNING - Hyperlinks: Mismatch (Source: 8, Translated: 6)
+2024-07-12 11:36:56 - WARNING - Emphasis: Mismatch (Source: 73, Translated: 70)
+2024-07-12 11:36:56 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_apply.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_gitcloner.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_test.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_cleanup.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_deploy.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-cli/fleet_target.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-agent/fleet-agent.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-agent/fleet-agent_register.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-agent/fleet-agent_clusterstatus.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-controller/fleet-manager_cleanup.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-controller/fleet-manager.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-controller/fleet-manager_agentmanagement.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: cli/fleet-controller/fleet-manager_gitjob.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: changelogs/index.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - Skipping: changelogs/changelogs/next.md (no changes)
+2024-07-12 11:36:56 - INFO - Comparing Markdown elements:
+2024-07-12 11:36:56 - INFO - All elements match.
+-----
+2024-07-12 11:36:56 - INFO - ----Translation of all files completed----
+2024-07-12 11:38:13 - INFO - Translation process started
+2024-07-12 11:38:13 - INFO - Skipping: index.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: gitrepo-targets.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: namespaces.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - WARNING - Emphasis: Mismatch (Source: 52, Translated: 49)
+2024-07-12 11:38:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:38:13 - INFO - Skipping: ref-resources.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: webhook.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: imagescan.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: multi-user.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: installation.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 32)
+2024-07-12 11:38:13 - WARNING - Emphasis: Mismatch (Source: 29, Translated: 30)
+2024-07-12 11:38:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:38:13 - INFO - Skipping: bundle-add.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: uninstall.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: ref-registration.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: gitrepo-content.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - WARNING - Emphasis: Mismatch (Source: 91, Translated: 92)
+2024-07-12 11:38:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:38:13 - INFO - Skipping: cluster-bundles-state.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: resource-counts-and-resources-list.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:38:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:38:13 - INFO - Skipping: resources-during-deployment.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Skipping: ref-bundle-stages.md (no changes)
+2024-07-12 11:38:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:38:13 - INFO - All elements match.
+-----
+2024-07-12 11:38:13 - INFO - Translating: ref-fleet-yaml.md (new file)
+2024-07-12 11:38:13 - INFO - File translation started: /home/t-yano/src/fleet-docs/docs/ref-fleet-yaml.md
+2024-07-12 11:38:13 - INFO - Translating chunk 1/2...
+2024-07-12 11:38:13 - INFO - Translation started: # fleet.yaml
+
+The `fleet.yaml` file adds options t...
+2024-07-12 11:38:54 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 11:38:54 - INFO - Translation completed
+2024-07-12 11:38:54 - INFO - Translating chunk 2/2...
+2024-07-12 11:38:54 - INFO - Translation started:     # replacing the existing one.  This can be fix...
+2024-07-12 11:39:13 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-12 11:39:13 - INFO - Translation completed
+2024-07-12 11:39:13 - INFO - Translation completed. Output: /home/t-yano/src/fleet-docs_ja/i18n/ja/docusaurus-plugin-content-docs/ref-fleet-yaml.md
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 10)
+2024-07-12 11:39:13 - WARNING - H1: Mismatch (Source: 29, Translated: 13)
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 25, Translated: 26)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: ref-crds.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: ref-bundle.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cluster-registration.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 33)
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 54, Translated: 53)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: architecture.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: gitrepo-add.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Code blocks: Mismatch (Source: 14, Translated: 17)
+2024-07-12 11:39:13 - WARNING - Notice: Mismatch (Source: 11, Translated: 12)
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 37, Translated: 36)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: quickstart.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Code blocks: Mismatch (Source: 8, Translated: 10)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: tut-deployment.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Code blocks: Mismatch (Source: 30, Translated: 35)
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 28, Translated: 33)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: concepts.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 11, Translated: 10)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: ref-configuration.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cluster-group.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: bundle-diffs.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: ref-gitrepo.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: troubleshooting.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - WARNING - Hyperlinks: Mismatch (Source: 8, Translated: 6)
+2024-07-12 11:39:13 - WARNING - Emphasis: Mismatch (Source: 73, Translated: 70)
+2024-07-12 11:39:13 - WARNING - ### Some elements do not match. Verification needed. ###
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_apply.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_gitcloner.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_test.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_cleanup.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_deploy.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-cli/fleet_target.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-agent/fleet-agent.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-agent/fleet-agent_register.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-agent/fleet-agent_clusterstatus.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-controller/fleet-manager_cleanup.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-controller/fleet-manager.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-controller/fleet-manager_agentmanagement.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: cli/fleet-controller/fleet-manager_gitjob.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: changelogs/index.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - Skipping: changelogs/changelogs/next.md (no changes)
+2024-07-12 11:39:13 - INFO - Comparing Markdown elements:
+2024-07-12 11:39:13 - INFO - All elements match.
+-----
+2024-07-12 11:39:13 - INFO - ----Translation of all files completed----

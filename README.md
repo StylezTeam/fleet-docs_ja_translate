@@ -1,75 +1,13 @@
-# このツールについて
+# Fleet docs 日本語翻訳ツール
 
-このツールは、OpenAIのAPIを使って、英語のマークダウン形式のファイルを日本語に変換するものです。
+本ディレクトリは、[Fleet docs](https://github.com/rancher/fleet-docs)を翻訳するツールです。
+OpenAIのAPIを利用して、マークダウン形式のファイルを日本語に翻訳します。
 
-変換元のファイルは、英語のマークダウン形式である必要があります。
-翻訳先のファイルは、日本語のマークダウン形式に変換されます。
+実行するには、以下の環境が必要です。
 
-## 必要な物
+1. Python3
+2. OpenAIのAPIキー
 
-- python3
-- OpenAIのAPIキー
-以下の環境変数でAPIキーを実行するシェルで定義してください。
-
-```
-OPENAI_API_KEY=
-```
-
-## 動かし方
-
-本リポジトリは、git subtreeで読み込ませて利用することをおすすめします。
-
-1. 翻訳したいリポジトリをcloneする
-2. 翻訳したいリポジトリ名に_jaと付けたリポジトリをGitLabやGitHub上で作成する。
-   これを翻訳されたファイルを保存するターゲットリポジトリとします。
-3. ターゲットリポジトリをcloneする。
-4. ターゲットリポジトリに本リポジトリ(gpt-translate-common-en-ja)をgit subtreeで読み込む
-5. 翻訳前のファイルが入っているディレクトリをmarkdown_translator_openai.py内で定義
-(定義例: SOURCE_DIR = "/home/t-yano/src/gptscript/docs/docs" )
-6. 翻訳後のファイルを入れるディレクトリをmarkdown_translator_openai.py内で定義
-(定義例: TARGET_DIR = "/home/t-yano/src/gptscript_ja/docs/docs/" )
-7. python3の仮想環境を作成して、有効化
-8. pip3で必要なpythonモジュールをインストール
-9. python3 ./markdown_translator_openai.py で翻訳を開始する
-
-## 補足
-
-### 4. git subtree での読み込ませ方
-
-```
-cd /<ターゲットリポジトリ>
-git subtree add 
-```
-
-### 5. 
-
-### 6. 
-
-### 7. 仮想環境の作り方
-
-```
-python3 -m venv <env_name>
-```
-
-#### 作成例
-```
-python3 -m venv venv
-```
-
-#### アクティベート
-
-```
-source <env_name>/bin/activate
-```
-
-```
-source venv/bin/activate
-```
-
-### 8. pip3で必要なpythonモジュールをインストール
-
-```
-pip install -r requirements.txt
-```
+詳細は、[fleet\-docs\_ja\_translate/gpt\-translate\-common at main · StylezTeam/fleet\-docs\_ja\_translate](https://github.com/StylezTeam/fleet-docs_ja_translate/tree/main/gpt-translate-common)を参照してください。
 
 
